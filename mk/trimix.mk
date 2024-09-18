@@ -1,6 +1,7 @@
 TRIMIX ?= init \
 	uninstall-filemanager \
 	install-ota-update \
+	uninstall-portmaster \
 	uninstall-scraper \
 	uninstall-terminal \
 	uninstall-user-guide \
